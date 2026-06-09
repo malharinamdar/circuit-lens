@@ -5,8 +5,6 @@ Mechanistic Interpretability of Indic Small Language Models.
 This module wraps the original nanoGPT model with forward hooks that
 capture intermediate activations (residual stream, attention patterns,
 MLP outputs, logits at each layer) without modifying the original code.
-
-Author: Malhar Inamdar
 """
 
 import math

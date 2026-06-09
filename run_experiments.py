@@ -8,8 +8,6 @@ Indic SLMs and exports structured JSON results + visualization data.
 Usage:
   python run_experiments.py --ckpt path/to/checkpoint.pt --tokenizer sarvamai/sarvam-1 --lang hindi
   python run_experiments.py --run-all --ckpt-dir path/to/checkpoints/
-
-Author: Malhar Inamdar
 """
 
 import argparse

@@ -10,8 +10,6 @@ Experiments:
 5. Neuron-level Analysis for Morphological Features
 6. Activation Patching for Circuit Identification
 7. Cross-lingual Circuit Comparison
-
-Author: Malhar Inamdar
 """
 
 import torch
